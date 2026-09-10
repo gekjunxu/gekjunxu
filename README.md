@@ -30,10 +30,10 @@ My work included:
 - Implementing a responsive top/bottom split view for narrow and mobile portrait layouts
 - Adding frontend tests for chart blurbs
 - Fixing a Windows Gradle build issue involving `npm.cmd` — [merged upstream](https://github.com/reposense/RepoSense/pull/2484)
-- Fixing a date-format issue in the user guide
+- Proposing a fix for a date-format issue in the user guide
 - Investigating iOS Safari crashes caused by high memory usage in large reports
 
-See my [contribution report](https://github.com/gekjunxu/RepoSense/blob/master/README.md) and [RepoSense contributions](https://github.com/gekjunxu/RepoSense/pulls?q=is%3Apr+author%3Agekjunxu).
+See my [RepoSense contributions](https://github.com/gekjunxu/RepoSense/pulls?q=is%3Apr+author%3Agekjunxu).
 
 ### [Prof-iler](https://github.com/gekjunxu/tp)
 
