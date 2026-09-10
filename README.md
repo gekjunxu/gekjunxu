@@ -2,13 +2,6 @@
 
 Computer Science student at the National University of Singapore. Currently looking for backend engineering opportunities.
 
-## Technologies
-
-- **Languages:** Java, Python, TypeScript, JavaScript
-- **Backend:** FastAPI, REST APIs, PostgreSQL
-- **Frontend:** React, Next.js, Tailwind CSS
-- **Tools:** Git, Docker, GitHub Actions, Linux, Qt, OpenWrt
-
 ## Projects
 
 ### [Canvas Sync](https://github.com/gekjunxu/canvas-sync)
