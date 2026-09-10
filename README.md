@@ -1,6 +1,6 @@
 # Jun Xu
 
-Computer Science student at the National University of Singapore. Currently looking for backend engineering opportunities.
+Computer Science student at the National University of Singapore. Open to software engineering opportunities, especially backend-focused roles.
 
 ## Projects
 
